@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivek/Downloads/MLOps-project/MLOps-End-to-End-Project/mlruns/0/ad50fc5ddaa94e0dae7d99cc11f9eb2d/artifacts
+end_time: 1708504897295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad50fc5ddaa94e0dae7d99cc11f9eb2d
+run_name: wistful-ape-734
+run_uuid: ad50fc5ddaa94e0dae7d99cc11f9eb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708504894408
+status: 3
+tags: []
+user_id: vivek
