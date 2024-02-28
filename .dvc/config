@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:\Users\vivek\Downloads\MLOps-project\MLOps-End-to-End-Project\dvc.lock\dvc.lock
